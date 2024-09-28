@@ -54,10 +54,3 @@ Project is totally based on research papers as project predict output using LSTM
 
 3. https://www.sciencedirect.com/science/article/pii/S1877050920304865
 
-
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
-
-Mail/Message me for Projects Help 🙏🏻
